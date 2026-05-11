@@ -39,3 +39,22 @@ This project demonstrates an end-to-end data preprocessing and Exploratory Data 
 1. Clone this repository:
    ```bash
    git clone [https://github.com/hanan1hub/Advanced-Data-Wrangling-Toolkit.git](https://github.com/hanan1hub/Advanced-Data-Wrangling-Toolkit.git)
+
+2. Navigate to the project directory:
+
+```Bash
+cd your-repo-name
+
+3. Install the required dependencies:
+
+```Bash
+pip install numpy pandas matplotlib seaborn
+
+4. Ensure the dataset files (Titanic-Dataset.csv and Airbnb dataset) are located in the root directory.
+
+5. Launch the Jupyter environment to view and execute the analysis:
+
+```Bash
+jupyter notebook "dvanced-Data-Wrangling-Toolkit.ipynb"
+🤝 Contributing
+Contributions, optimizations, and feedback are highly encouraged. Please feel free to open an issue or submit a pull request.
